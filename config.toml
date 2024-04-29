@@ -12,7 +12,7 @@ ignoreErrors = ["error-remote-getjson"]
 
 # ------------------------------
 theme = "ananke"
-title = "404 Not Found"
+title = "monose"
 
 [params]
   color = 'linen'

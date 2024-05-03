@@ -1,7 +1,7 @@
 baseURL = "https://nov23e.eth.limo/"
 # title = "Hugo Themes"
-author = "Cyril Wong"
-copyright = "Copyright © 2024, Cyril Wong; all rights reserved."
+author = "Steve Francia"
+copyright = "Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved."
 paginate = 3
 languageCode = "en"
 DefaultContentLanguage = "en"
@@ -11,18 +11,18 @@ enableInlineShortcodes = true
 ignoreErrors = ["error-remote-getjson"]
 
 # ------------------------------
-theme = "ananke"
-title = "monose"
+theme = "hugo-paper"
+title = "Paper"
 
 [params]
   color = 'linen'
 
-  twitter = 'nov23e'
-  github = 'nov23e'
-  instagram = 'nov23e'
+  twitter = 'nanxiaobei'
+  github = 'nanxiaobei'
+  instagram = 'nan.xiaobei'
 
-  avatar = 'nove@duck.com'
-  name = 'Cyril Wong'
+  avatar = 'nanxiaobei@gmail.com'
+  name = 'Lee'
   bio = 'Discover fresh context'
 # ------------------------------
 

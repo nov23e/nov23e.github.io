@@ -1,4 +1,4 @@
-baseURL: "https://nov23e.eth.limo/"
+﻿baseURL: "https://nov23e.eth.limo/"
 title: ExampleSite
 paginate: 5
 theme: PaperMod

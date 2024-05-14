@@ -2,91 +2,91 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nov23e.eth.limo/post/placeholder-text/</loc>
+    <loc>https://nov23e.github.io/post/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nov23e.eth.limo/</loc>
+    <loc>https://nov23e.github.io/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://nov23e.eth.limo/fr/"
+                href="https://nov23e.github.io/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://nov23e.eth.limo/fa/"
+                href="https://nov23e.github.io/fa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nov23e.eth.limo/"
+                href="https://nov23e.github.io/"
                 />
   </url><url>
-    <loc>https://nov23e.eth.limo/archives/</loc>
+    <loc>https://nov23e.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nov23e.eth.limo/categories/</loc>
+    <loc>https://nov23e.github.io/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nov23e.eth.limo/tags/css/</loc>
+    <loc>https://nov23e.github.io/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nov23e.eth.limo/tags/html/</loc>
+    <loc>https://nov23e.github.io/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nov23e.eth.limo/tags/index/</loc>
+    <loc>https://nov23e.github.io/tags/index/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nov23e.eth.limo/tags/markdown/</loc>
+    <loc>https://nov23e.github.io/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nov23e.eth.limo/post/markdown-syntax/</loc>
+    <loc>https://nov23e.github.io/post/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nov23e.eth.limo/post/</loc>
+    <loc>https://nov23e.github.io/post/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nov23e.eth.limo/series/</loc>
+    <loc>https://nov23e.github.io/series/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nov23e.eth.limo/categories/syntax/</loc>
+    <loc>https://nov23e.github.io/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nov23e.eth.limo/tags/</loc>
+    <loc>https://nov23e.github.io/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nov23e.eth.limo/categories/themes/</loc>
+    <loc>https://nov23e.github.io/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nov23e.eth.limo/series/themes-guide/</loc>
+    <loc>https://nov23e.github.io/series/themes-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nov23e.eth.limo/tags/privacy/</loc>
+    <loc>https://nov23e.github.io/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nov23e.eth.limo/post/rich-content/</loc>
+    <loc>https://nov23e.github.io/post/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nov23e.eth.limo/tags/shortcodes/</loc>
+    <loc>https://nov23e.github.io/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nov23e.eth.limo/tags/text/</loc>
+    <loc>https://nov23e.github.io/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nov23e.eth.limo/post/math-typesetting/</loc>
+    <loc>https://nov23e.github.io/post/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nov23e.eth.limo/tags/emoji/</loc>
+    <loc>https://nov23e.github.io/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nov23e.eth.limo/post/emoji-support/</loc>
+    <loc>https://nov23e.github.io/post/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nov23e.eth.limo/about/</loc>
+    <loc>https://nov23e.github.io/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nov23e.eth.limo/contact/</loc>
+    <loc>https://nov23e.github.io/contact/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url>
 </urlset>

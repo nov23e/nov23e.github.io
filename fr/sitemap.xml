@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nov23e.eth.limo/fr/frcategories/</loc>
+    <loc>https://nov23e.github.io/fr/frcategories/</loc>
   </url><url>
-    <loc>https://nov23e.eth.limo/fr/frseries/</loc>
+    <loc>https://nov23e.github.io/fr/frseries/</loc>
   </url><url>
-    <loc>https://nov23e.eth.limo/fr/frtags/</loc>
+    <loc>https://nov23e.github.io/fr/frtags/</loc>
   </url><url>
-    <loc>https://nov23e.eth.limo/fr/</loc>
+    <loc>https://nov23e.github.io/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nov23e.eth.limo/"
+                href="https://nov23e.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://nov23e.eth.limo/fa/"
+                href="https://nov23e.github.io/fa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://nov23e.eth.limo/fr/"
+                href="https://nov23e.github.io/fr/"
                 />
   </url>
 </urlset>

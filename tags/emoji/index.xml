@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Emoji on PaperMod</title>
-    <link>https://nov23e.eth.limo/tags/emoji/</link>
+    <link>https://nov23e.github.io/tags/emoji/</link>
     <description>Recent content in Emoji on PaperMod</description>
     <image>
       <title>PaperMod</title>
-      <url>https://nov23e.eth.limo/images/papermod-cover.png</url>
-      <link>https://nov23e.eth.limo/images/papermod-cover.png</link>
+      <url>https://nov23e.github.io/images/papermod-cover.png</url>
+      <link>https://nov23e.github.io/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.125.7</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
     <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://nov23e.eth.limo/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nov23e.github.io/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Emoji Support</title>
-      <link>https://nov23e.eth.limo/post/emoji-support/</link>
+      <link>https://nov23e.github.io/post/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://nov23e.eth.limo/post/emoji-support/</guid>
+      <guid>https://nov23e.github.io/post/emoji-support/</guid>
       <description>Guide to emoji usage in Hugo</description>
     </item>
   </channel>

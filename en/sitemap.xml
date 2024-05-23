@@ -6,7 +6,7 @@
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nov23e.github.io/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -23,6 +23,21 @@
                 href="https://nov23e.github.io/"
                 />
   </url><url>
+    <loc>https://nov23e.github.io/tags/hello-word/</loc>
+    <lastmod>2024-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nov23e.github.io/post/helloword/</loc>
+    <lastmod>2024-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nov23e.github.io/tags/index/</loc>
+    <lastmod>2024-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nov23e.github.io/post/</loc>
+    <lastmod>2024-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nov23e.github.io/tags/</loc>
+    <lastmod>2024-05-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://nov23e.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -35,25 +50,16 @@
     <loc>https://nov23e.github.io/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nov23e.github.io/tags/index/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://nov23e.github.io/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nov23e.github.io/post/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nov23e.github.io/post/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://nov23e.github.io/series/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nov23e.github.io/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nov23e.github.io/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nov23e.github.io/categories/themes/</loc>
